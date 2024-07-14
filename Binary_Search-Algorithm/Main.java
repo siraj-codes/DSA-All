@@ -40,6 +40,24 @@ public class Main {
         // first and last index of a target (Approach 2 of O(Log(N)) time complexity)
         // System.out.println(Arrays.toString(BS7.BinarySearchAlgo7(nums, 2)));
 
+        // int[] arr = { 1, 4, 5, 7, 5, 3, 1 };
+
+        // int t = 13;
+        // int p = BS8.piv(arr);
+
+        // int ans = BS8.BinarySearchAlgo(arr, 0, p, t);
+
+        // if (ans == -1) {
+
+        // ans = BS8.BinarySearchAlgo(arr, p + 1, arr.length - 1, t);
+        // System.out.println(ans);
+
+        // }
+
+        // else {
+        // System.out.println(ans);
+        // }
+
     }
 
 }
