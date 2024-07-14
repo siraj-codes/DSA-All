@@ -58,6 +58,10 @@ public class Main {
         // System.out.println(ans);
         // }
 
+        // int[] arr = { 12, 13, 45, 66, 78, 92, 99, 92, 78, 66, 45, 13, 12 };
+
+        // System.out.println(BS9.peek(arr));
+
     }
 
 }
