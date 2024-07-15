@@ -1,3 +1,6 @@
+// // import java.util.Arrays;
+
+// import java.lang.reflect.Array;
 // import java.util.Arrays;
 
 public class Main {
@@ -61,6 +64,15 @@ public class Main {
         // int[] arr = { 12, 13, 45, 66, 78, 92, 99, 92, 78, 66, 45, 13, 12 };
 
         // System.out.println(BS9.peek(arr));
+
+        // int[][] arr = {
+        // { 10, 20, 30, 40 },
+        // { 11, 22, 33, 44 },
+        // { 12, 23, 34, 45 },
+        // { 13, 24, 35, 46 },
+        // };
+
+        // System.out.println(Arrays.toString(BS10.BinarySearchinTwoDArray(arr, 34)));
 
     }
 
